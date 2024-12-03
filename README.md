@@ -1,0 +1,19 @@
+## LDL
+- `Abstract-Painting.mat`: Emotion labels: amusing, anger, awe, content, disgust, exciting, fear, sad.
+- `Emotion6.mat`: Emotion labels: anger, disgust, joy, fear, sad, surprise, neutral.
+- `FBP5500.mat`: Ordinal labels: scores 1-5.
+- `FG-Net.mat`: Age labels.
+- `Flickr.mat`: Emotion labels: anger, amusing, awe, content, disgust, exciting, fear, sad.
+- `Human-Gene.mat`: Disease labels.
+- `JAFFE.mat`: Emotion labels: happy, sad, suprise, anger, disgust, fear.
+- `M2B.mat`: Ordinal labels: scores 1-5.
+- `MOR-PH.mat`: Age labels.
+- `Movie.mat`: Ordinal labels: scores 1-5.
+- `Music-Mood.mat`: Mood label: calm, tense, cheerful, sad, danceable, love, dreamy, electronic, energy.
+- `Natural-Scene.mat`: Landscape labels: plant, sky, cloud, snow, building, desert, mountain, water, sun.
+- `RAF-ML.mat`: Emotion labels: surprise, fear, disgust, joy, sadness, anger.
+- `SBU-3DFE.mat`: Emotion labels: happy, sad, suprise, anger, disgust, fear.
+- `SCUT-FBP.mat`: Ordinal labels: scores 1-5.
+- `SJAFFE.mat`: Emotion labels: happy, sad, suprise, anger, disgust, fear.
+- `Twitter.mat`: Emotion labels: anger, amusing, awe, content, disgust, exciting, fear, sad.
+- `Yeast-.mat`: Timestamp labels.
