@@ -1,19 +1,22 @@
 ## LDL
-- `Abstract-Painting.mat`: Emotion labels: amusing, anger, awe, content, disgust, exciting, fear, sad.
-- `Emotion6.mat`: Emotion labels: anger, disgust, joy, fear, sad, surprise, neutral.
-- `FBP5500.mat`: Ordinal labels: scores 1-5.
-- `FG-Net.mat`: Age labels.
-- `Flickr.mat`: Emotion labels: anger, amusing, awe, content, disgust, exciting, fear, sad.
-- `Human-Gene.mat`: Disease labels.
-- `JAFFE.mat`: Emotion labels: happy, sad, suprise, anger, disgust, fear.
-- `M2B.mat`: Ordinal labels: scores 1-5.
-- `MOR-PH.mat`: Age labels.
-- `Movie.mat`: Ordinal labels: scores 1-5.
-- `Music-Mood.mat`: Mood label: calm, tense, cheerful, sad, danceable, love, dreamy, electronic, energy.
-- `Natural-Scene.mat`: Landscape labels: plant, sky, cloud, snow, building, desert, mountain, water, sun.
-- `RAF-ML.mat`: Emotion labels: surprise, fear, disgust, joy, sadness, anger.
-- `SBU-3DFE.mat`: Emotion labels: happy, sad, suprise, anger, disgust, fear.
-- `SCUT-FBP.mat`: Ordinal labels: scores 1-5.
-- `SJAFFE.mat`: Emotion labels: happy, sad, suprise, anger, disgust, fear.
-- `Twitter.mat`: Emotion labels: anger, amusing, awe, content, disgust, exciting, fear, sad.
-- `Yeast-.mat`: Timestamp labels.
+- Emotion
+  - `JAFFE.mat`: happy, sad, suprise, anger, disgust, fear.
+  - `SJAFFE.mat`: happy, sad, suprise, anger, disgust, fear.
+  - `SBU-3DFE.mat`: happy, sad, suprise, anger, disgust, fear.
+  - `Abstract-Painting.mat`: amusing, anger, awe, content, disgust, exciting, fear, sad.
+  - `Emotion6.mat`: anger, disgust, joy, fear, sad, surprise, neutral.
+  - `Twitter.mat`: anger, amusing, awe, content, disgust, exciting, fear, sad.
+  - `Flickr.mat`: anger, amusing, awe, content, disgust, exciting, fear, sad.
+  - `RAF-ML.mat`: surprise, fear, disgust, joy, sadness, anger.
+  - `Music-Mood.mat`: calm, tense, cheerful, sad, danceable, love, dreamy, electronic, energy.
+- Ordinal
+  - `FBP5500.mat`: scores 1-5.
+  - `FG-Net.mat`: age labels.
+  - `M2B.mat`: scores 1-5.
+  - `MOR-PH.mat`: age labels.
+  - `Movie.mat`: scores 1-5.
+  - `SCUT-FBP.mat`: scores 1-5.
+- Others
+  - `Human-Gene.mat`: Disease labels.
+  - `Natural-Scene.mat`: Landscape labels: plant, sky, cloud, snow, building, desert, mountain, water, sun.
+  - `Yeast-.mat`: Timestamp labels.
